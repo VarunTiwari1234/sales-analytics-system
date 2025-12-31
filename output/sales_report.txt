@@ -1,0 +1,32 @@
+============================================================
+                   SALES ANALYTICS REPORT                   
+               Generated: 2025-12-31 05:36:12               
+                   Records Processed: 80                    
+============================================================
+
+OVERALL SUMMARY
+------------------------------------------------------------
+Total Revenue:            ₹3,578,094.00
+Total Transactions:       80
+Average Order Value:      ₹44,726.18
+Date Range:               2024-12-01 to 2024-12-30
+
+
+REGION-WISE PERFORMANCE
+------------------------------------------------------------
+Region          Sales           % Total   
+------------------------------------------------------------
+North           ₹1,346,375.00     37.63%
+South           ₹896,796.00     25.06%
+West            ₹856,852.00     23.95%
+East            ₹465,674.00     13.01%
+                ₹12,397.00     0.35%
+
+
+TOP 5 PRODUCTS (By Quantity)
+------------------------------------------------------------
+1. Wireless Mouse                 61 sold
+2. Mouse                          61 sold
+3. USB Cable                      48 sold
+4. Webcam                         45 sold
+5. Laptop Charger                 33 sold
