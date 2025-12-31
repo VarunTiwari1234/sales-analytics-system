@@ -257,4 +257,4 @@ def enrich_sales_data(transactions, product_mapping):
     # 3. Save to file (Calling the helper function from file_handler)
     save_enriched_data(enriched_list)
     
-    return enriched_list
+    return enriched_list 
